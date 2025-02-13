@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 AI research, hosting solutions, electronics, IoT, and automation projects.<br>👯 Embedded systems, AI integration, and open-source tech.<br>🤝Optimizing power backup and embedded coding.<br>🌱 Advanced PCB design, AI in IoT, and cloud hosting.<br>💬 AI, electronics, 3D printing, automation, and full-stack development at Skynet IT.<br>⚡ If it can be hacked, optimized, or automated—I’m on it! 😎<br><br>
+🔭 AI Enthusiasts, hosting solutions, electronics, IoT, and automation projects.<br>👯 Embedded systems, AI integration, and open-source tech.<br>🤝Optimizing power backup and embedded coding.<br>🌱 Advanced PCB design, AI in IoT, and cloud hosting.<br>💬 AI, electronics, 3D printing, automation, and full-stack development at Skynet IT.<br>⚡ If it can be hacked, optimized, or automated—I’m on it! 😎<br><br>
 
 
 ## 🌐 Socials:
